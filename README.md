@@ -12,6 +12,6 @@ Here are some ideas to get you started:-->
 - 👯 Dtech-Dbug looking to collaborate on Exciting Projects/ Startup oppurtunities.
 - 🤔 Dtech-Dbug is looking for help with 'How to write a proper Bio'.
 - 💬 Ask Dtech-Dbug about: Anything. Dtech-Dubg would love to hit off a decent converstation.
-- 📫 How to reach Dtech-Dbug: Twitter, LinkedIn Convininetly.
+- 📫 How to reach Dtech-Dbug: Twitter, LinkedIn, Mail(least convinient)
 - ⚡ Fun fact: Developers don't compete for the 1st position. They compete for the 0th position.
 
