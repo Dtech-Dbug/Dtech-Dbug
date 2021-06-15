@@ -1,4 +1,5 @@
-### Hi there, This Is Dwaipayan Chakraborty. Currently, a 3rd Year B.tech Undergrad.Aspiring full-stack developer. Curious,Creative,Quick Learner.👋
+### Hi there, This Is Dwaipayan Chakraborty. Currently, a 3rd Year B.tech Undergrad. Aspiring full-stack developer. 
+### Words : Curious,Creative,Quick Learner.👋
 ![7ded64a15523ced896792943f383c22a](https://user-images.githubusercontent.com/74761990/122115230-d95ed900-ce41-11eb-8951-152176061cf5.jpg)
 
 
