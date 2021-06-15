@@ -9,11 +9,11 @@
 Here are some ideas to get you started:-->
 
 - 🧙‍♂️Dtech-Dbug is my alter ego.
-- 🔭 Dtech-Dbug currently working on Covigency.
+- 🔭 Dtech-Dbug is currently working on Covigency.
 - 🌱 Dtech-Dbug is currently learning MERN Stack.
-- 👯 Dtech-Dbug looking to collaborate on Exciting Projects/ Startup oppurtunities.
+- 👯 Dtech-Dbug is looking to collaborate on Exciting Projects/ Startup oppurtunities.
 - 🤔 Dtech-Dbug is looking for help with 'How to write a proper Bio'.
-- 💬 Ask Dtech-Dbug about: Anything. Dtech-Dubg would love to hit off a decent converstation.
+- 💬 Ask Dtech-Dbug about: Anything. Dtech-Dubg would love to hit off a decent converstation. If I don't know, I will learn. 🤓
 - 📫 How to reach Dtech-Dbug: Twitter, LinkedIn, Mail(least convinient)
 - ⚡ Fun fact: Developers don't compete for the 1st position. They compete for the 0th position.
 
