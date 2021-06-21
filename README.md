@@ -3,6 +3,8 @@
 ### An Indian Software Developer , with almost 1000+ hours of hands-on application on the Web 💻 who loves to build minimal yet efficient products. 😁
 #### Hi there, This Is Dwaipayan Chakraborty. Currently, a 3rd Year B.tech Undergrad.An Aspiring full-stack developer looking to solve problems with code. 🆘
 
+> Understanding a problem is half the solution.
+
 
 ### Words : Curious , Creative , Empathetic , Music Geek , Quick Learner , Resourceful.👋
 ![7ded64a15523ced896792943f383c22a](https://user-images.githubusercontent.com/74761990/122115230-d95ed900-ce41-11eb-8951-152176061cf5.jpg)
