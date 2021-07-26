@@ -1,4 +1,4 @@
-## Problem Solver 🧩 | Engineer 💻 | Technical writer ✍  | Blogger [@Hashnode](https://dwaipayan.hashnode.dev/)📃 | Learner 🤓 | Avid Reader(On Weekends) 📚
+## Problem Solver 🧩 | Engineer 💻 | Technical writer ✍  | Blogger [@Hashnode](https://dwaipayan.hashnode.dev/) / [Medium](https://medium.com/@Dtech-Dbug)📃 | Learner 🤓 | Avid Reader(On Weekends) 📚
 
 ### An Indian Software Developer , with almost 1000+ hours of hands-on application on the Web 💻 who loves to build minimal yet efficient products. 😁
 #### Hi there, This Is Dwaipayan Chakraborty. Currently, a 3rd Year B.tech Undergrad.An Aspiring full-stack developer looking to solve problems with code. 🆘
