@@ -26,6 +26,7 @@ Here are some ideas to get you started:-->
 - 🧙‍♂️Dtech-Dbug is my alter ego.
 - 🔭 Dtech-Dbug is currently working on Covigency, & leading a small team team of Engineers & Designers across several places of India. Also a close part of it's marketing team💼
 - 🌱 Dtech-Dbug is currently learning typescript.
+- ☁  Dtech-Dbug is currently enrolled in the google cloud ready facilitator program.
 - 👯 Dtech-Dbug is looking to collaborate on Exciting Projects/ Startup oppurtunities.
 - 📙 Dtech-Dbug is currently reading *The Lean Startup - by Eric Ries*
 - 🤔 Dtech-Dbug is looking for help with 'How to write a proper Bio'.
