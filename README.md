@@ -26,9 +26,7 @@ Here are some ideas to get you started:-->
 - 🧙‍♂️Dtech-Dbug is my alter ego.
 - 🔭 Dtech-Dbug is currently working on Covigency, & leading a small team team of Engineers & Designers across several places of India. Also a close part of it's marketing team💼
 - 🌱 Dtech-Dbug is currently learning typescript.
-- ☁  Dtech-Dbug is currently enrolled in the google cloud ready facilitator program.
-- 👯 Dtech-Dbug is looking to collaborate on Exciting Projects/ Startup oppurtunities.
-- 📙 Dtech-Dbug is currently reading *The Lean Startup - by Eric Ries*
+- 👯 Dtech-Dbug is open to proposals of collaboration on Exciting Projects/ Startup oppurtunities.
 - 🤔 Dtech-Dbug is looking for help with 'How to write a proper Bio'.
 - 💬 Ask Dtech-Dbug about: Anything. Dtech-Dubg would love to hit off a decent converstation. If he don't know, he will learn.He loves to. 🤓
 - 📫 How to reach Dtech-Dbug: [Twitter](https://twitter.com/Dwaipayanhere), [LinkedIn](https://www.linkedin.com/in/dwaipayan-chakroborty-919abb1a1/), Mail(least convinient)
