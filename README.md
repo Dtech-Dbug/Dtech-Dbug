@@ -1,7 +1,7 @@
 ## Problem Solver 🧩 | Engineer 💻 | Technical writer ✍  | Blogger [@Hashnode](https://dwaipayan.hashnode.dev/) / [Medium](https://medium.com/@Dtech-Dbug)📃 | Learner 🤓 | Avid Reader(On Weekends) 📚
 
 ### Software Developer , with almost 1100+ hours of hands-on application experience making things happen on the the Web 💻 who loves to build minimal yet efficient products. 😁
-#### Hi there, This Is Dwaipayan Chakraborty. Currently, a 3rd Year B.tech Undergrad. looking to solve problems with | without code. 🆘
+#### Hi there, This Is Dwaipayan Chakraborty. Currently, a 3rd Year B.tech Undergrad. looking to solve problems with || without code. 🆘
 
 > Understanding a problem is half the solution.
 
