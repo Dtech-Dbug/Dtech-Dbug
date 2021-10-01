@@ -30,6 +30,8 @@ Here are some ideas to get you started:-->
 - 🤔 Dtech-Dbug is looking for help with 'How to write a proper Bio'.
 - 💬 Ask Dtech-Dbug about: Anything. Dtech-Dubg would love to hit off a decent converstation. If he don't know, he will learn.He loves to. 🤓
 - 📫 How to reach Dtech-Dbug: [Twitter](https://twitter.com/Dwaipayanhere), [LinkedIn](https://www.linkedin.com/in/dwaipayan-chakroborty-919abb1a1/), Mail(least convinient)
+
+
 - ⚡ Fun fact: Developers don't compete for the 1st position. They compete for the 0th position.
 
 ***If you have read it this far , I am so glad you checked up on me 🤗❤  There is something I would love to gift you🎁, look below 👀***
@@ -40,6 +42,10 @@ Here are some ideas to get you started:-->
 ### I will be thrilled to cooperate. 🤝
 
 #### Looking to find more 😵 or the easiest way(s) to reach out to me? 🤗 [Check Here 🔗](https://linkfolio-dee.netlify.app/)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dtech-Dbug)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
