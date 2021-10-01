@@ -43,7 +43,8 @@ Here are some ideas to get you started:-->
 
 #### Looking to find more 😵 or the easiest way(s) to reach out to me? 🤗 [Check Here 🔗](https://linkfolio-dee.netlify.app/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dtech-Dbug)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dtech-Dbug&count_private=true)
+](https://github.com/anuraghazra/github-readme-stats)
 
 
 
