@@ -5,12 +5,18 @@
 
 ![Dtech-Dbug's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dtech-Dbug&count_private=true&show_icons=true&theme=tokyonight)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dtech-Dbug)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 > Understanding a problem is half the solution.
 
 
+
+
 ### Words : Curious , Creative , Empathetic , Music Geek , Quick Learner , Resourceful.👋
 ![7ded64a15523ced896792943f383c22a](https://user-images.githubusercontent.com/74761990/122115230-d95ed900-ce41-11eb-8951-152176061cf5.jpg)
+
 
 
 <!--
