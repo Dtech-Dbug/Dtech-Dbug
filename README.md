@@ -3,6 +3,9 @@
 ### Software Developer , with almost 1100+ hours of hands-on application experience making things happen on the the Web 💻 who loves to build minimal yet efficient products. 😁
 #### Hi there, This Is Dwaipayan Chakraborty. Currently, a 3rd Year B.tech Undergrad. looking to solve problems with || without code. 🆘
 
+![Dtech-Dbug's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dtech-Dbug&count_private=true&show_icons=true&theme=tokyonight)
+
+
 > Understanding a problem is half the solution.
 
 
@@ -43,8 +46,8 @@ Here are some ideas to get you started:-->
 
 #### Looking to find more 😵 or the easiest way(s) to reach out to me? 🤗 [Check Here 🔗](https://linkfolio-dee.netlify.app/)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dtech-Dbug&count_private=true)
-](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 
 
