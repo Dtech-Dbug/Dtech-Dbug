@@ -1,7 +1,7 @@
 ## Problem Solver 🧩 | Engineer 💻 | Technical writer ✍  | Blogger [@Hashnode](https://dwaipayan.hashnode.dev/) / [Medium](https://medium.com/@Dtech-Dbug)📃 | Learner 🤓 | Avid Reader(On Weekends) 📚
 
 ### Software Developer , with almost 1100+ hours of hands-on application experience making things happen on the the Web 💻 who loves to build minimal yet efficient products. 😁
-#### Hi there, This Is Dwaipayan Chakraborty. Final year B.tech Undergrad. looking to solve problems with || without code. 🆘
+#### Hi there, This Is Dwaipayan Chakraborty. I am 20 years, thousands of Github Contribution
 
 ![Dtech-Dbug's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dtech-Dbug&count_private=true&show_icons=true&theme=tokyonight)
 
