@@ -4,7 +4,7 @@
 
 ### Hello World 🌎 This Is Dwaipayan Chakraborty. I am 20 years, thousands of Github commits contribution, several hours of immersive experience building scalable PWAs and products on the web, a few projects(side projects, volunteered projects), hundreds of hours of code debugging - reviewing - googling, and a dozen of tech blogs(so far) old. 🧙‍♂️
 
-#### I celebrate open source, building stuff, collaboration and believe there is nothhing that a great cup of coffee, a serene environment and a great team can't solve. 🤝
+#### I celebrate open source, building stuff, collaboration and believe there is nothing that a great cup of coffee, a serene environment and a great team can't solve. 🤝
 
 ![Dtech-Dbug's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dtech-Dbug&count_private=true&show_icons=true&theme=tokyonight)
 
