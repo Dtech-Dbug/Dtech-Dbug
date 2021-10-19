@@ -31,7 +31,7 @@ Here are some ideas to get you started:-->
 
 *Non-tech Skills : Communication , Collaboration , Emotional intelligence , Flexibility , Problem Analysis.*
 
-*Tech-Skills : Wordpress , HTML, CSS, Javascript , React , Redux , NodeJS, ExpressJS, MongoDB,SQL , Netlify , Firebase , Github , Google Search*
+*Tech-Skills : Wordpress , HTML, CSS, JavaScript , TypeScript React , Redux , NodeJS, ExpressJS, MongoDB ,PostgreSQL, Netlify, Firebase, Github, Google Search*
 
 *Other Interests: Marketing, Startups, Social Entrepreneurship , Establishing genuine connections with interesting people.*
 
@@ -39,7 +39,7 @@ Here are some ideas to get you started:-->
 #### Here's something that you may wanna know 😉
 - 🧙‍♂️Dtech-Dbug is my alter ego.
 - 🔭 Dtech-Dbug is currently working on Covigency, & leading a small team team of Engineers & Designers across several places of India. Also a close part of it's marketing team💼
-- 🌱 Dtech-Dbug is currently learning typescript.
+- 🌱 Dtech-Dbug is currently learning typescript and PostgreSQL.
 - 👯 Dtech-Dbug is open to proposals of collaboration on Exciting Projects/ Startup oppurtunities.
 - 🤔 Dtech-Dbug is looking for help with 'How to write a proper Bio'.
 - 💬 Ask Dtech-Dbug about: Anything. Dtech-Dubg would love to hit off a decent converstation. If he don't know, he will learn.He loves to. 🤓
