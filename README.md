@@ -4,6 +4,10 @@
 ![](https://komarev.com/ghpvc/?username=Dtech-Dbug&color=blue&style=plastic&label=VIEWS)
 [![Linkedin: Dwaipayan C.](https://img.shields.io/badge/follow-Dwaipayan%20C.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dwaipayanchakroborty/)](https://www.linkedin.com/in/dwaipayanchakroborty/)
 [![Twitter: Dwaipayan](https://img.shields.io/twitter/follow/Dwaipayanhere?style=social)](https://twitter.com/Dwaipayanhere)
+[![Dev.to Badge](https://img.shields.io/badge/-@dtech%20dbug-black?style=flat-square&labelColor=000000&logo=Dev.to&link=https://dev.to/dtechdbug)](https://dev.to/dtechdbug)
+[![Dev.to Badge](https://img.shields.io/badge/-@dtech%20dbug-blue?style=flat-square&labelColor=blue&logo=hashnode&link=https://dwaipayan.hashnode.dev/)](https://dwaipayan.hashnode.dev/)
+[![Dev.to Badge](https://img.shields.io/badge/-@dtech%20dbug-darkred?style=flat-square&labelColor=white&logo=npm&link=https://www.npmjs.com/~dtech-dbug)](https://www.npmjs.com/~dtech-dbug)
+
 
 ### Software Developer , with  1100+ hours of hands-on application experience making things happen on the Web 💻 🕸
 
