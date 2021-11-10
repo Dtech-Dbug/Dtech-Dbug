@@ -59,11 +59,11 @@ Here are some ideas to get you started:-->
 <!-- ***If you have read it this far , I am so glad you checked up on me 🤗❤  There is something I would love to gift you🎁, look below 👀***
 [*Here's a collection of ~10 Hours of amazing music,that I have been curating from the start of this year. If you love music , you cant miss it 🎧*](https://open.spotify.com/playlist/3shrTaKRPsbbONVYh1Yu17)
  -->
-*Found any of these interesting? 🤔*
-### Feel free to Drop a '👋' on any of my socials, if you wanna join for a quick chat ⏱, give review of the above playlist , or discuss business...💼
+<!-- *Found any of these interesting? 🤔* -->
+<!-- ### Feel free to Drop a '👋' on any of my socials, if you wanna join for a quick chat ⏱, give review of the above playlist , or discuss business...💼
 ### I will be thrilled to cooperate. 🤝
 
-#### Looking to find more 😵 or the easiest way(s) to reach out to me? 🤗 [Check Here 🔗](https://linkfolio-dee.netlify.app/)
+#### Looking to find more 😵 or the easiest way(s) to reach out to me? 🤗 [Check Here 🔗](https://linkfolio-dee.netlify.app/) -->
 
 
 
