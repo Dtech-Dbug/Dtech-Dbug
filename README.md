@@ -1,6 +1,6 @@
 ## Problem Solver 🧩 | Engineer 💻 | Technical writer ✍  | Blogger [@Hashnode](https://dwaipayan.hashnode.dev/) / [Medium](https://medium.com/@Dtech-Dbug)📃 | Learner 🤓 | Avid Reader(On Weekends) 📚
 ---
-[![GitHub Dtech-Dbug](https://img.shields.io/github/followers/Dtech-Dbug?label=follow&style=social)](https://github.com/Dtech-Dbug)
+<!-- [![GitHub Dtech-Dbug](https://img.shields.io/github/followers/Dtech-Dbug?label=follow&style=social)](https://github.com/Dtech-Dbug) -->
 [![Linkedin: Dwaipayan C.](https://img.shields.io/badge/follow-Dwaipayan%20C.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dwaipayanchakroborty/)](https://www.linkedin.com/in/dwaipayanchakroborty/)
 [![Twitter: Dwaipayan](https://img.shields.io/twitter/follow/Dwaipayanhere?style=social)](https://twitter.com/Dwaipayanhere)
 
