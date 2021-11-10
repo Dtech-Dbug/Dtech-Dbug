@@ -4,7 +4,7 @@
 [![Linkedin: Dwaipayan C.](https://img.shields.io/badge/follow-Dwaipayan%20C.-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dwaipayanchakroborty/)](https://www.linkedin.com/in/dwaipayanchakroborty/)
 [![Twitter: Dwaipayan](https://img.shields.io/twitter/follow/Dwaipayanhere?style=social)](https://twitter.com/Dwaipayanhere)
 
-### Software Developer , with almost 1100+ hours of hands-on application experience making things happen on the the Web 💻 
+### Software Developer , with  1100+ hours of hands-on application experience making things happen on the the Web 💻 
 
 ### Hello World 🌎 This Is Dwaipayan Chakraborty. I am 20 years, thousands of Github commits contribution, several hours of immersive experience building scalable PWAs and products on the web, a few projects(side projects, volunteered projects), hundreds of hours of code debugging - reviewing - googling, and a dozen of tech blogs(so far) old. 🧙‍♂️
 
