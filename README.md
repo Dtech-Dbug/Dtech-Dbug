@@ -1,4 +1,4 @@
-## Problem Solver 🧩 | Engineer 💻 | Technical writer ✍  | Blogger [@Hashnode](https://dwaipayan.hashnode.dev/) / [Medium](https://medium.com/@Dtech-Dbug)📃 | Learner 🤓 | Avid Reader(On Weekends) 📚
+## Problem Solver 🧩 | Engineer 💻 | Technical writer ✍  | Lifelong Learner 🤓 | 
 ---
 <!-- [![GitHub Dtech-Dbug](https://img.shields.io/github//Dtech-Dbug?label=follow&style=social)](https://github.com/Dtech-Dbug) -->
 ![](https://komarev.com/ghpvc/?username=Dtech-Dbug&color=blue&style=plastic&label=VIEWS)
