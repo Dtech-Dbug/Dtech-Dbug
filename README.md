@@ -19,7 +19,7 @@
 
 ![Dtech-Dbug's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dtech-Dbug&count_private=true&show_icons=true&hide=contribs&theme=tokyonight)
 
-### Langugages and Tools:
+### Langugages and Tools(familiar with but not limited to):
 <div style="display: inline_block"><br>
   <img align="center" alt="Max-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Max-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
