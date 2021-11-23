@@ -56,10 +56,11 @@ devicon-nextjs-original-wordmark -->
 <details>
   <summary>⚠DO NOT OPEN⚠</summary>
   
-  #### I see I picked your curiosity's picked 👀
+  #### I see your curiosity's picked 👀
   1. ⚡ Fun fact: Developers don't compete for the 1st position. They compete for the 0th position.
 
   2. Do you know the favorite fabrics of developers? Cotton! Bc, they are softwears. 😜
+  
 
 </details>
 ---
