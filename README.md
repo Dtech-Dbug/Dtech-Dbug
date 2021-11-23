@@ -17,7 +17,7 @@
 
 > Talk is cheap. Show me the code.
 
-![Dtech-Dbug's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dtech-Dbug&count_private=true&show_icons=true&theme=tokyonight)
+![Dtech-Dbug's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dtech-Dbug&count_private=true&show_icons=true&hide=contribs&theme=tokyonight)
 
 ### Langugages and Tools:
 <div style="display: inline_block"><br>
