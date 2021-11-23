@@ -45,19 +45,32 @@ devicon-nextjs-original-wordmark -->
 </div>
 <br/>
 
+### If you like reading codes, this might be more comprehensible than the above devicons...
+
+
+![carbon (2)](https://user-images.githubusercontent.com/74761990/143140134-4a1ffbea-eee5-40f8-92ad-415cc6b6a3b3.png)
+
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dtech-Dbug)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
+<details>
+  <summary>⚠DO NOT OPEN⚠</summary>
+  
+  #### I see I picked your curiosity's picked 👀
+  1. ⚡ Fun fact: Developers don't compete for the 1st position. They compete for the 0th position.
 
+  2. Do you know the favorite fabrics of developers? Cotton! Bc, they are softwears. 😜
 
+</details>
+---
+<!-- Want to share memes, puns, music, interesting project ideas for work/collab, or just say Hi? -->
 
-> Understanding a problem is half the solution.
+<!-- > Understanding a problem is half the solution. -->
 
 
 
 
 <!-- ### Words : Curious , Creative , Empathetic , Music Geek , Quick Learner , Resourceful.👋 -->
-- ⚡ Fun fact: Developers don't compete for the 1st position. They compete for the 0th position.
 <!-- ![7ded64a15523ced896792943f383c22a](https://user-images.githubusercontent.com/74761990/122115230-d95ed900-ce41-11eb-8951-152176061cf5.jpg) -->
 
 
