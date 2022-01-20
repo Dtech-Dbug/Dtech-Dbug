@@ -64,6 +64,15 @@ devicon-nextjs-original-wordmark -->
 
 </details>
 ---
+---
+
+## Certifications:
+- [Object Oriented Design, University Of Alberta](https://www.coursera.org/learn/object-oriented-design/home/welcome?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta)
+- [Master MERN Stack Development, Udemy](https://www.udemy.com/certificate/UC-4af7b20d-e65b-4b50-ad6c-be27515cabc4/)
+- [Backend Development & APIs, freeCodeCamp](https://www.freecodecamp.org/certification/fcc69481cb7-1d2c-4fed-94a9-d53f93a42991/back-end-development-and-apis)
+- [Javascript algrithms and data structures, freeCodeCamp](https://www.freecodecamp.org/certification/fcc69481cb7-1d2c-4fed-94a9-d53f93a42991/javascript-algorithms-and-data-structures)
+- [Responsive Web Design, freeCodeCamp](https://www.freecodecamp.org/certification/fcc69481cb7-1d2c-4fed-94a9-d53f93a42991/responsive-web-design)
+
 <!-- Want to share memes, puns, music, interesting project ideas for work/collab, or just say Hi? -->
 
 <!-- > Understanding a problem is half the solution. -->
